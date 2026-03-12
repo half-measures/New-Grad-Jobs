@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-12T22:28:55.290059",
+    "last_updated": "2026-03-12T22:59:07.579710",
     "total_snapshots": 8,
     "date_range": {
       "start": "2026-03-05",
@@ -395,12 +395,12 @@
     },
     {
       "date": "2026-03-12",
-      "total_jobs": 991,
+      "total_jobs": 962,
       "categories": {},
       "tiers": {
-        "unicorn": 483,
-        "other": 369,
-        "faang_plus": 139
+        "unicorn": 481,
+        "other": 341,
+        "faang_plus": 140
       },
       "top_companies": [
         {
@@ -417,15 +417,11 @@
         },
         {
           "company": "Boeing",
-          "jobs": 27
+          "jobs": 26
         },
         {
           "company": "Dropbox",
           "jobs": 22
-        },
-        {
-          "company": "Synchrony",
-          "jobs": 21
         },
         {
           "company": "MongoDB",
@@ -442,11 +438,15 @@
         {
           "company": "Abnormal Security",
           "jobs": 16
+        },
+        {
+          "company": "Nuro",
+          "jobs": 16
         }
       ],
-      "unique_companies": 204,
-      "avg_jobs_per_company": 4.86,
-      "timestamp": "2026-03-12T22:28:55.289845"
+      "unique_companies": 199,
+      "avg_jobs_per_company": 4.83,
+      "timestamp": "2026-03-12T22:59:07.579499"
     }
   ]
 }
