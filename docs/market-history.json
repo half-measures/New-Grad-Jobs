@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-13T11:54:31.167071",
+    "last_updated": "2026-03-13T12:38:05.947355",
     "total_snapshots": 9,
     "date_range": {
       "start": "2026-03-05",
@@ -450,12 +450,12 @@
     },
     {
       "date": "2026-03-13",
-      "total_jobs": 979,
+      "total_jobs": 971,
       "categories": {},
       "tiers": {
-        "unicorn": 482,
+        "unicorn": 480,
         "faang_plus": 141,
-        "other": 356
+        "other": 350
       },
       "top_companies": [
         {
@@ -479,16 +479,16 @@
           "jobs": 22
         },
         {
-          "company": "MongoDB",
-          "jobs": 18
-        },
-        {
           "company": "Oscar Health",
           "jobs": 18
         },
         {
           "company": "Affirm",
           "jobs": 17
+        },
+        {
+          "company": "MongoDB",
+          "jobs": 16
         },
         {
           "company": "Abnormal Security",
@@ -499,9 +499,9 @@
           "jobs": 16
         }
       ],
-      "unique_companies": 217,
-      "avg_jobs_per_company": 4.51,
-      "timestamp": "2026-03-13T11:54:31.166814"
+      "unique_companies": 214,
+      "avg_jobs_per_company": 4.54,
+      "timestamp": "2026-03-13T12:38:05.947114"
     }
   ]
 }
