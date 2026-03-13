@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-13T00:00:11.246654",
+    "last_updated": "2026-03-13T02:36:21.750062",
     "total_snapshots": 9,
     "date_range": {
       "start": "2026-03-05",
@@ -450,11 +450,11 @@
     },
     {
       "date": "2026-03-13",
-      "total_jobs": 978,
+      "total_jobs": 992,
       "categories": {},
       "tiers": {
         "unicorn": 481,
-        "other": 357,
+        "other": 371,
         "faang_plus": 140
       },
       "top_companies": [
@@ -469,6 +469,10 @@
         {
           "company": "Lyft",
           "jobs": 28
+        },
+        {
+          "company": "Deloitte",
+          "jobs": 27
         },
         {
           "company": "Boeing",
@@ -493,15 +497,11 @@
         {
           "company": "Abnormal Security",
           "jobs": 16
-        },
-        {
-          "company": "Nuro",
-          "jobs": 16
         }
       ],
-      "unique_companies": 211,
-      "avg_jobs_per_company": 4.64,
-      "timestamp": "2026-03-13T00:00:11.246425"
+      "unique_companies": 212,
+      "avg_jobs_per_company": 4.68,
+      "timestamp": "2026-03-13T02:36:21.749846"
     }
   ]
 }
