@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-13T20:24:17.547059",
+    "last_updated": "2026-03-13T21:03:11.999170",
     "total_snapshots": 9,
     "date_range": {
       "start": "2026-03-05",
@@ -450,21 +450,21 @@
     },
     {
       "date": "2026-03-13",
-      "total_jobs": 958,
+      "total_jobs": 978,
       "categories": {},
       "tiers": {
-        "unicorn": 484,
-        "other": 346,
-        "faang_plus": 128
+        "unicorn": 487,
+        "other": 361,
+        "faang_plus": 130
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 156
+          "jobs": 159
         },
         {
           "company": "Waymo",
-          "jobs": 68
+          "jobs": 67
         },
         {
           "company": "Lyft",
@@ -483,6 +483,10 @@
           "jobs": 18
         },
         {
+          "company": "MetLife",
+          "jobs": 18
+        },
+        {
           "company": "Affirm",
           "jobs": 17
         },
@@ -493,15 +497,11 @@
         {
           "company": "MongoDB",
           "jobs": 16
-        },
-        {
-          "company": "Nuro",
-          "jobs": 16
         }
       ],
-      "unique_companies": 214,
-      "avg_jobs_per_company": 4.48,
-      "timestamp": "2026-03-13T20:24:17.546839"
+      "unique_companies": 218,
+      "avg_jobs_per_company": 4.49,
+      "timestamp": "2026-03-13T21:03:11.998958"
     }
   ]
 }
