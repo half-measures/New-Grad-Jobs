@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-17T19:16:28.376170",
+    "last_updated": "2026-03-17T20:04:47.254715",
     "total_snapshots": 13,
     "date_range": {
       "start": "2026-03-05",
@@ -670,12 +670,12 @@
     },
     {
       "date": "2026-03-17",
-      "total_jobs": 963,
+      "total_jobs": 964,
       "categories": {},
       "tiers": {
         "unicorn": 482,
-        "other": 357,
-        "faang_plus": 124
+        "other": 361,
+        "faang_plus": 121
       },
       "top_companies": [
         {
@@ -692,10 +692,6 @@
         },
         {
           "company": "Accenture",
-          "jobs": 25
-        },
-        {
-          "company": "Boeing",
           "jobs": 23
         },
         {
@@ -703,11 +699,11 @@
           "jobs": 22
         },
         {
-          "company": "Abnormal Security",
-          "jobs": 19
+          "company": "Boeing",
+          "jobs": 21
         },
         {
-          "company": "NVIDIA",
+          "company": "Abnormal Security",
           "jobs": 19
         },
         {
@@ -717,11 +713,15 @@
         {
           "company": "Oscar Health",
           "jobs": 17
+        },
+        {
+          "company": "NVIDIA",
+          "jobs": 17
         }
       ],
-      "unique_companies": 211,
-      "avg_jobs_per_company": 4.56,
-      "timestamp": "2026-03-17T19:16:28.375939"
+      "unique_companies": 221,
+      "avg_jobs_per_company": 4.36,
+      "timestamp": "2026-03-17T20:04:47.254441"
     }
   ]
 }
