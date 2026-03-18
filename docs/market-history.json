@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-18T12:06:53.334293",
+    "last_updated": "2026-03-18T13:55:46.731627",
     "total_snapshots": 14,
     "date_range": {
       "start": "2026-03-05",
@@ -725,12 +725,12 @@
     },
     {
       "date": "2026-03-18",
-      "total_jobs": 938,
+      "total_jobs": 959,
       "categories": {},
       "tiers": {
-        "unicorn": 482,
-        "faang_plus": 129,
-        "other": 327
+        "unicorn": 481,
+        "faang_plus": 132,
+        "other": 346
       },
       "top_companies": [
         {
@@ -754,12 +754,16 @@
           "jobs": 22
         },
         {
-          "company": "Abnormal Security",
-          "jobs": 19
+          "company": "CVS Health",
+          "jobs": 22
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 18
+          "jobs": 20
+        },
+        {
+          "company": "Abnormal Security",
+          "jobs": 19
         },
         {
           "company": "MongoDB",
@@ -768,15 +772,11 @@
         {
           "company": "Affirm",
           "jobs": 17
-        },
-        {
-          "company": "Oscar Health",
-          "jobs": 17
         }
       ],
-      "unique_companies": 206,
-      "avg_jobs_per_company": 4.55,
-      "timestamp": "2026-03-18T12:06:53.334041"
+      "unique_companies": 209,
+      "avg_jobs_per_company": 4.59,
+      "timestamp": "2026-03-18T13:55:46.731303"
     }
   ]
 }
