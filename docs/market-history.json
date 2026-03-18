@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-18T17:39:04.017310",
+    "last_updated": "2026-03-18T18:39:28.893889",
     "total_snapshots": 14,
     "date_range": {
       "start": "2026-03-05",
@@ -725,17 +725,17 @@
     },
     {
       "date": "2026-03-18",
-      "total_jobs": 947,
+      "total_jobs": 962,
       "categories": {},
       "tiers": {
-        "unicorn": 485,
-        "other": 335,
-        "faang_plus": 127
+        "unicorn": 488,
+        "faang_plus": 125,
+        "other": 349
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 160
+          "jobs": 162
         },
         {
           "company": "Waymo",
@@ -746,11 +746,15 @@
           "jobs": 24
         },
         {
-          "company": "Boeing",
-          "jobs": 23
+          "company": "Syms Strategic Group, LLC (SSG)",
+          "jobs": 24
         },
         {
           "company": "Dropbox",
+          "jobs": 21
+        },
+        {
+          "company": "Boeing",
           "jobs": 21
         },
         {
@@ -768,15 +772,11 @@
         {
           "company": "Reddit",
           "jobs": 18
-        },
-        {
-          "company": "MongoDB",
-          "jobs": 17
         }
       ],
-      "unique_companies": 208,
-      "avg_jobs_per_company": 4.55,
-      "timestamp": "2026-03-18T17:39:04.017025"
+      "unique_companies": 202,
+      "avg_jobs_per_company": 4.76,
+      "timestamp": "2026-03-18T18:39:28.893632"
     }
   ]
 }
