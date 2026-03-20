@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-20T22:24:08.359819",
+    "last_updated": "2026-03-20T22:57:38.720493",
     "total_snapshots": 16,
     "date_range": {
       "start": "2026-03-05",
@@ -835,12 +835,12 @@
     },
     {
       "date": "2026-03-20",
-      "total_jobs": 955,
+      "total_jobs": 944,
       "categories": {},
       "tiers": {
-        "unicorn": 475,
-        "other": 351,
-        "faang_plus": 129
+        "unicorn": 474,
+        "other": 335,
+        "faang_plus": 135
       },
       "top_companies": [
         {
@@ -858,10 +858,6 @@
         {
           "company": "Lyft",
           "jobs": 26
-        },
-        {
-          "company": "Accenture",
-          "jobs": 23
         },
         {
           "company": "Dropbox",
@@ -882,11 +878,15 @@
         {
           "company": "Reddit",
           "jobs": 18
+        },
+        {
+          "company": "MongoDB",
+          "jobs": 17
         }
       ],
-      "unique_companies": 211,
-      "avg_jobs_per_company": 4.53,
-      "timestamp": "2026-03-20T22:24:08.359545"
+      "unique_companies": 207,
+      "avg_jobs_per_company": 4.56,
+      "timestamp": "2026-03-20T22:57:38.720101"
     }
   ]
 }
