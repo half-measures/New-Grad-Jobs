@@ -1,10 +1,10 @@
 {
   "meta": {
-    "last_updated": "2026-03-23T23:58:46.863339",
-    "total_snapshots": 19,
+    "last_updated": "2026-03-24T02:13:42.457159",
+    "total_snapshots": 20,
     "date_range": {
       "start": "2026-03-05",
-      "end": "2026-03-23"
+      "end": "2026-03-24"
     }
   },
   "snapshots": [
@@ -1052,6 +1052,61 @@
       "unique_companies": 213,
       "avg_jobs_per_company": 4.43,
       "timestamp": "2026-03-23T23:58:46.863056"
+    },
+    {
+      "date": "2026-03-24",
+      "total_jobs": 930,
+      "categories": {},
+      "tiers": {
+        "faang_plus": 122,
+        "other": 340,
+        "unicorn": 468
+      },
+      "top_companies": [
+        {
+          "company": "SpaceX",
+          "jobs": 155
+        },
+        {
+          "company": "Waymo",
+          "jobs": 63
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 29
+        },
+        {
+          "company": "ClickHouse",
+          "jobs": 27
+        },
+        {
+          "company": "Lyft",
+          "jobs": 26
+        },
+        {
+          "company": "Dropbox",
+          "jobs": 21
+        },
+        {
+          "company": "Affirm",
+          "jobs": 19
+        },
+        {
+          "company": "Reddit",
+          "jobs": 18
+        },
+        {
+          "company": "MongoDB",
+          "jobs": 17
+        },
+        {
+          "company": "Nuro",
+          "jobs": 16
+        }
+      ],
+      "unique_companies": 216,
+      "avg_jobs_per_company": 4.31,
+      "timestamp": "2026-03-24T02:13:42.456833"
     }
   ]
 }
