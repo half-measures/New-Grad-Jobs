@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-30T20:36:00.142516",
+    "last_updated": "2026-03-30T21:29:34.638049",
     "total_snapshots": 26,
     "date_range": {
       "start": "2026-03-05",
@@ -1385,12 +1385,12 @@
     },
     {
       "date": "2026-03-30",
-      "total_jobs": 928,
+      "total_jobs": 933,
       "categories": {},
       "tiers": {
-        "unicorn": 488,
-        "other": 300,
-        "faang_plus": 140
+        "unicorn": 487,
+        "other": 305,
+        "faang_plus": 141
       },
       "top_companies": [
         {
@@ -1399,11 +1399,11 @@
         },
         {
           "company": "Waymo",
-          "jobs": 62
+          "jobs": 63
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 30
+          "jobs": 31
         },
         {
           "company": "Lyft",
@@ -1414,15 +1414,11 @@
           "jobs": 23
         },
         {
-          "company": "Affirm",
-          "jobs": 20
-        },
-        {
-          "company": "MongoDB",
-          "jobs": 20
-        },
-        {
           "company": "Dropbox",
+          "jobs": 21
+        },
+        {
+          "company": "Affirm",
           "jobs": 20
         },
         {
@@ -1430,13 +1426,17 @@
           "jobs": 20
         },
         {
+          "company": "MongoDB",
+          "jobs": 19
+        },
+        {
           "company": "Opendoor",
           "jobs": 17
         }
       ],
-      "unique_companies": 192,
-      "avg_jobs_per_company": 4.83,
-      "timestamp": "2026-03-30T20:36:00.142192"
+      "unique_companies": 196,
+      "avg_jobs_per_company": 4.76,
+      "timestamp": "2026-03-30T21:29:34.637672"
     }
   ]
 }
