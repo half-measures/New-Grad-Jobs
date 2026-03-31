@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-03-31T05:58:51.193067",
+    "last_updated": "2026-03-31T07:23:37.321932",
     "total_snapshots": 27,
     "date_range": {
       "start": "2026-03-05",
@@ -1440,12 +1440,12 @@
     },
     {
       "date": "2026-03-31",
-      "total_jobs": 945,
+      "total_jobs": 958,
       "categories": {},
       "tiers": {
-        "unicorn": 485,
-        "other": 317,
-        "faang_plus": 143
+        "unicorn": 484,
+        "other": 333,
+        "faang_plus": 141
       },
       "top_companies": [
         {
@@ -1455,6 +1455,10 @@
         {
           "company": "Waymo",
           "jobs": 63
+        },
+        {
+          "company": "NTT DATA",
+          "jobs": 32
         },
         {
           "company": "Northrop Grumman",
@@ -1483,15 +1487,11 @@
         {
           "company": "Opendoor",
           "jobs": 17
-        },
-        {
-          "company": "Boeing",
-          "jobs": 17
         }
       ],
-      "unique_companies": 197,
-      "avg_jobs_per_company": 4.8,
-      "timestamp": "2026-03-31T05:58:51.192728"
+      "unique_companies": 200,
+      "avg_jobs_per_company": 4.79,
+      "timestamp": "2026-03-31T07:23:37.321614"
     }
   ]
 }
