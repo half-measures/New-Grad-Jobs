@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-02T17:12:27.387621",
+    "last_updated": "2026-04-02T18:06:13.766101",
     "total_snapshots": 29,
     "date_range": {
       "start": "2026-03-05",
@@ -1550,12 +1550,12 @@
     },
     {
       "date": "2026-04-02",
-      "total_jobs": 925,
+      "total_jobs": 957,
       "categories": {},
       "tiers": {
-        "other": 345,
         "unicorn": 461,
-        "faang_plus": 119
+        "other": 373,
+        "faang_plus": 123
       },
       "top_companies": [
         {
@@ -1565,6 +1565,10 @@
         {
           "company": "Waymo",
           "jobs": 61
+        },
+        {
+          "company": "Accenture",
+          "jobs": 29
         },
         {
           "company": "Lyft",
@@ -1580,7 +1584,7 @@
         },
         {
           "company": "Boeing",
-          "jobs": 20
+          "jobs": 23
         },
         {
           "company": "Affirm",
@@ -1591,17 +1595,13 @@
           "jobs": 18
         },
         {
-          "company": "Opendoor",
-          "jobs": 17
-        },
-        {
           "company": "Dropbox",
           "jobs": 17
         }
       ],
-      "unique_companies": 199,
-      "avg_jobs_per_company": 4.65,
-      "timestamp": "2026-04-02T17:12:27.387091"
+      "unique_companies": 197,
+      "avg_jobs_per_company": 4.86,
+      "timestamp": "2026-04-02T18:06:13.765723"
     }
   ]
 }
