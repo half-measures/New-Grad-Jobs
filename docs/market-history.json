@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-02T22:54:44.490478",
+    "last_updated": "2026-04-02T23:29:50.189553",
     "total_snapshots": 29,
     "date_range": {
       "start": "2026-03-05",
@@ -1550,12 +1550,12 @@
     },
     {
       "date": "2026-04-02",
-      "total_jobs": 950,
+      "total_jobs": 966,
       "categories": {},
       "tiers": {
-        "unicorn": 462,
-        "other": 374,
-        "faang_plus": 114
+        "faang_plus": 125,
+        "unicorn": 463,
+        "other": 378
       },
       "top_companies": [
         {
@@ -1579,10 +1579,6 @@
           "jobs": 23
         },
         {
-          "company": "Boeing",
-          "jobs": 20
-        },
-        {
           "company": "Affirm",
           "jobs": 19
         },
@@ -1591,17 +1587,21 @@
           "jobs": 18
         },
         {
-          "company": "Dropbox",
-          "jobs": 17
+          "company": "San Francisco Unified School District",
+          "jobs": 18
         },
         {
-          "company": "Opendoor",
+          "company": "Boeing",
+          "jobs": 18
+        },
+        {
+          "company": "Dropbox",
           "jobs": 17
         }
       ],
-      "unique_companies": 209,
-      "avg_jobs_per_company": 4.55,
-      "timestamp": "2026-04-02T22:54:44.490115"
+      "unique_companies": 208,
+      "avg_jobs_per_company": 4.64,
+      "timestamp": "2026-04-02T23:29:50.189144"
     }
   ]
 }
