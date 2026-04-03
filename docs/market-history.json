@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-03T12:05:45.952883",
+    "last_updated": "2026-04-03T13:42:18.153948",
     "total_snapshots": 30,
     "date_range": {
       "start": "2026-03-05",
@@ -1605,12 +1605,12 @@
     },
     {
       "date": "2026-04-03",
-      "total_jobs": 986,
+      "total_jobs": 946,
       "categories": {},
       "tiers": {
-        "faang_plus": 119,
+        "faang_plus": 124,
         "unicorn": 462,
-        "other": 405
+        "other": 360
       },
       "top_companies": [
         {
@@ -1634,10 +1634,6 @@
           "jobs": 22
         },
         {
-          "company": "CVS Health",
-          "jobs": 22
-        },
-        {
           "company": "Boeing",
           "jobs": 20
         },
@@ -1652,11 +1648,15 @@
         {
           "company": "Dropbox",
           "jobs": 17
+        },
+        {
+          "company": "Opendoor",
+          "jobs": 17
         }
       ],
-      "unique_companies": 217,
-      "avg_jobs_per_company": 4.54,
-      "timestamp": "2026-04-03T12:05:45.952435"
+      "unique_companies": 206,
+      "avg_jobs_per_company": 4.59,
+      "timestamp": "2026-04-03T13:42:18.153556"
     }
   ]
 }
