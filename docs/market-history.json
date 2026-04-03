@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-03T09:45:36.235715",
+    "last_updated": "2026-04-03T10:33:49.561208",
     "total_snapshots": 30,
     "date_range": {
       "start": "2026-03-05",
@@ -1605,12 +1605,12 @@
     },
     {
       "date": "2026-04-03",
-      "total_jobs": 966,
+      "total_jobs": 995,
       "categories": {},
       "tiers": {
         "faang_plus": 118,
         "unicorn": 462,
-        "other": 386
+        "other": 415
       },
       "top_companies": [
         {
@@ -1620,6 +1620,10 @@
         {
           "company": "Waymo",
           "jobs": 61
+        },
+        {
+          "company": "CVS Health",
+          "jobs": 28
         },
         {
           "company": "Lyft",
@@ -1634,10 +1638,6 @@
           "jobs": 22
         },
         {
-          "company": "Walmart",
-          "jobs": 20
-        },
-        {
           "company": "Boeing",
           "jobs": 20
         },
@@ -1646,17 +1646,17 @@
           "jobs": 19
         },
         {
-          "company": "MongoDB",
-          "jobs": 18
+          "company": "Walmart",
+          "jobs": 19
         },
         {
-          "company": "Dropbox",
-          "jobs": 17
+          "company": "MongoDB",
+          "jobs": 18
         }
       ],
-      "unique_companies": 210,
-      "avg_jobs_per_company": 4.6,
-      "timestamp": "2026-04-03T09:45:36.235236"
+      "unique_companies": 214,
+      "avg_jobs_per_company": 4.65,
+      "timestamp": "2026-04-03T10:33:49.560782"
     }
   ]
 }
