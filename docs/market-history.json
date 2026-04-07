@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-07T23:03:46.449885",
+    "last_updated": "2026-04-07T23:55:30.844827",
     "total_snapshots": 34,
     "date_range": {
       "start": "2026-03-05",
@@ -1825,12 +1825,12 @@
     },
     {
       "date": "2026-04-07",
-      "total_jobs": 994,
+      "total_jobs": 1015,
       "categories": {},
       "tiers": {
-        "faang_plus": 161,
-        "unicorn": 470,
-        "other": 363
+        "unicorn": 469,
+        "other": 375,
+        "faang_plus": 171
       },
       "top_companies": [
         {
@@ -1843,10 +1843,14 @@
         },
         {
           "company": "Boeing",
-          "jobs": 27
+          "jobs": 28
         },
         {
           "company": "ClickHouse",
+          "jobs": 26
+        },
+        {
+          "company": "San Francisco Unified School District",
           "jobs": 26
         },
         {
@@ -1868,15 +1872,11 @@
         {
           "company": "MongoDB",
           "jobs": 18
-        },
-        {
-          "company": "Stripe",
-          "jobs": 17
         }
       ],
-      "unique_companies": 202,
-      "avg_jobs_per_company": 4.92,
-      "timestamp": "2026-04-07T23:03:46.449380"
+      "unique_companies": 203,
+      "avg_jobs_per_company": 5.0,
+      "timestamp": "2026-04-07T23:55:30.844327"
     }
   ]
 }
