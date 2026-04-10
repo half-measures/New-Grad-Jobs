@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-10T04:59:20.747503",
+    "last_updated": "2026-04-10T06:58:51.164006",
     "total_snapshots": 37,
     "date_range": {
       "start": "2026-03-05",
@@ -1990,12 +1990,12 @@
     },
     {
       "date": "2026-04-10",
-      "total_jobs": 961,
+      "total_jobs": 1011,
       "categories": {},
       "tiers": {
         "unicorn": 464,
-        "other": 348,
-        "faang_plus": 149
+        "other": 353,
+        "faang_plus": 194
       },
       "top_companies": [
         {
@@ -2007,8 +2007,16 @@
           "jobs": 54
         },
         {
+          "company": "Apple",
+          "jobs": 42
+        },
+        {
           "company": "Northrop Grumman",
           "jobs": 30
+        },
+        {
+          "company": "NTT DATA",
+          "jobs": 29
         },
         {
           "company": "ClickHouse",
@@ -2029,19 +2037,11 @@
         {
           "company": "MongoDB",
           "jobs": 18
-        },
-        {
-          "company": "Stripe",
-          "jobs": 17
-        },
-        {
-          "company": "Opendoor",
-          "jobs": 17
         }
       ],
-      "unique_companies": 191,
-      "avg_jobs_per_company": 5.03,
-      "timestamp": "2026-04-10T04:59:20.746948"
+      "unique_companies": 180,
+      "avg_jobs_per_company": 5.62,
+      "timestamp": "2026-04-10T06:58:51.163458"
     }
   ]
 }
