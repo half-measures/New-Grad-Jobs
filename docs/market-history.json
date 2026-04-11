@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-11T08:12:36.240945",
+    "last_updated": "2026-04-11T09:07:03.028840",
     "total_snapshots": 38,
     "date_range": {
       "start": "2026-03-05",
@@ -2045,12 +2045,12 @@
     },
     {
       "date": "2026-04-11",
-      "total_jobs": 1024,
+      "total_jobs": 1001,
       "categories": {},
       "tiers": {
         "unicorn": 466,
-        "other": 393,
-        "faang_plus": 165
+        "other": 371,
+        "faang_plus": 164
       },
       "top_companies": [
         {
@@ -2078,10 +2078,6 @@
           "jobs": 26
         },
         {
-          "company": "Accenture",
-          "jobs": 24
-        },
-        {
           "company": "Affirm",
           "jobs": 21
         },
@@ -2092,11 +2088,15 @@
         {
           "company": "Dropbox",
           "jobs": 19
+        },
+        {
+          "company": "Scale AI",
+          "jobs": 17
         }
       ],
-      "unique_companies": 197,
-      "avg_jobs_per_company": 5.2,
-      "timestamp": "2026-04-11T08:12:36.240465"
+      "unique_companies": 188,
+      "avg_jobs_per_company": 5.32,
+      "timestamp": "2026-04-11T09:07:03.028365"
     }
   ]
 }
