@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-15T19:32:07.638800",
+    "last_updated": "2026-04-15T20:33:11.510863",
     "total_snapshots": 42,
     "date_range": {
       "start": "2026-03-05",
@@ -2265,17 +2265,17 @@
     },
     {
       "date": "2026-04-15",
-      "total_jobs": 990,
+      "total_jobs": 1010,
       "categories": {},
       "tiers": {
+        "unicorn": 480,
         "faang_plus": 130,
-        "unicorn": 477,
-        "other": 383
+        "other": 400
       },
       "top_companies": [
         {
           "company": "SpaceX",
-          "jobs": 174
+          "jobs": 175
         },
         {
           "company": "Waymo",
@@ -2287,7 +2287,7 @@
         },
         {
           "company": "Accenture",
-          "jobs": 26
+          "jobs": 24
         },
         {
           "company": "NTT DATA",
@@ -2314,9 +2314,9 @@
           "jobs": 18
         }
       ],
-      "unique_companies": 200,
-      "avg_jobs_per_company": 4.95,
-      "timestamp": "2026-04-15T19:32:07.638314"
+      "unique_companies": 199,
+      "avg_jobs_per_company": 5.08,
+      "timestamp": "2026-04-15T20:33:11.510344"
     }
   ]
 }
