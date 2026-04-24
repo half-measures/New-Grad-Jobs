@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-24T21:33:55.633021",
+    "last_updated": "2026-04-24T22:28:53.393183",
     "total_snapshots": 51,
     "date_range": {
       "start": "2026-03-05",
@@ -2760,14 +2760,18 @@
     },
     {
       "date": "2026-04-24",
-      "total_jobs": 773,
+      "total_jobs": 967,
       "categories": {},
       "tiers": {
-        "faang_plus": 119,
-        "unicorn": 309,
-        "other": 345
+        "unicorn": 483,
+        "other": 359,
+        "faang_plus": 125
       },
       "top_companies": [
+        {
+          "company": "SpaceX",
+          "jobs": 174
+        },
         {
           "company": "Waymo",
           "jobs": 49
@@ -2803,15 +2807,11 @@
         {
           "company": "Figma",
           "jobs": 18
-        },
-        {
-          "company": "NVIDIA",
-          "jobs": 18
         }
       ],
-      "unique_companies": 185,
-      "avg_jobs_per_company": 4.18,
-      "timestamp": "2026-04-24T21:33:55.632325"
+      "unique_companies": 193,
+      "avg_jobs_per_company": 5.01,
+      "timestamp": "2026-04-24T22:28:53.392612"
     }
   ]
 }
