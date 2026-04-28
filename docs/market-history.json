@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-04-28T17:31:06.131489",
+    "last_updated": "2026-04-28T19:14:00.460156",
     "total_snapshots": 55,
     "date_range": {
       "start": "2026-03-05",
@@ -2980,12 +2980,12 @@
     },
     {
       "date": "2026-04-28",
-      "total_jobs": 958,
+      "total_jobs": 960,
       "categories": {},
       "tiers": {
-        "faang_plus": 132,
         "other": 349,
-        "unicorn": 477
+        "unicorn": 480,
+        "faang_plus": 131
       },
       "top_companies": [
         {
@@ -3005,6 +3005,10 @@
           "jobs": 22
         },
         {
+          "company": "Dropbox",
+          "jobs": 21
+        },
+        {
           "company": "Abnormal Security",
           "jobs": 20
         },
@@ -3013,25 +3017,21 @@
           "jobs": 20
         },
         {
-          "company": "Dropbox",
-          "jobs": 19
-        },
-        {
           "company": "Stripe",
           "jobs": 19
         },
         {
-          "company": "Northrop Grumman",
-          "jobs": 18
+          "company": "Twitch",
+          "jobs": 17
         },
         {
-          "company": "Twitch",
+          "company": "Scale AI",
           "jobs": 17
         }
       ],
-      "unique_companies": 198,
-      "avg_jobs_per_company": 4.84,
-      "timestamp": "2026-04-28T17:31:06.130891"
+      "unique_companies": 202,
+      "avg_jobs_per_company": 4.75,
+      "timestamp": "2026-04-28T19:14:00.459616"
     }
   ]
 }
