@@ -1,10 +1,10 @@
 {
   "meta": {
-    "last_updated": "2026-04-28T23:45:40.194367",
-    "total_snapshots": 55,
+    "last_updated": "2026-04-29T01:31:23.333518",
+    "total_snapshots": 56,
     "date_range": {
       "start": "2026-03-05",
-      "end": "2026-04-28"
+      "end": "2026-04-29"
     }
   },
   "snapshots": [
@@ -3032,6 +3032,61 @@
       "unique_companies": 202,
       "avg_jobs_per_company": 4.78,
       "timestamp": "2026-04-28T23:45:40.193684"
+    },
+    {
+      "date": "2026-04-29",
+      "total_jobs": 976,
+      "categories": {},
+      "tiers": {
+        "unicorn": 477,
+        "other": 367,
+        "faang_plus": 132
+      },
+      "top_companies": [
+        {
+          "company": "SpaceX",
+          "jobs": 178
+        },
+        {
+          "company": "Waymo",
+          "jobs": 47
+        },
+        {
+          "company": "ClickHouse",
+          "jobs": 25
+        },
+        {
+          "company": "Affirm",
+          "jobs": 22
+        },
+        {
+          "company": "Abnormal Security",
+          "jobs": 20
+        },
+        {
+          "company": "Stripe",
+          "jobs": 19
+        },
+        {
+          "company": "Dropbox",
+          "jobs": 19
+        },
+        {
+          "company": "Lyft",
+          "jobs": 19
+        },
+        {
+          "company": "Scale AI",
+          "jobs": 17
+        },
+        {
+          "company": "Figma",
+          "jobs": 17
+        }
+      ],
+      "unique_companies": 222,
+      "avg_jobs_per_company": 4.4,
+      "timestamp": "2026-04-29T01:31:23.332915"
     }
   ]
 }
