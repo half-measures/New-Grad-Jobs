@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-05-01T17:49:01.520509",
+    "last_updated": "2026-05-01T18:53:42.266744",
     "total_snapshots": 58,
     "date_range": {
       "start": "2026-03-05",
@@ -3145,12 +3145,12 @@
     },
     {
       "date": "2026-05-01",
-      "total_jobs": 1010,
+      "total_jobs": 983,
       "categories": {},
       "tiers": {
-        "unicorn": 477,
-        "other": 389,
-        "faang_plus": 144
+        "faang_plus": 143,
+        "unicorn": 475,
+        "other": 365
       },
       "top_companies": [
         {
@@ -3163,7 +3163,7 @@
         },
         {
           "company": "Northrop Grumman",
-          "jobs": 30
+          "jobs": 29
         },
         {
           "company": "ClickHouse",
@@ -3190,13 +3190,13 @@
           "jobs": 19
         },
         {
-          "company": "Pediatric Home Service",
-          "jobs": 18
+          "company": "Scale AI",
+          "jobs": 17
         }
       ],
-      "unique_companies": 205,
-      "avg_jobs_per_company": 4.93,
-      "timestamp": "2026-05-01T17:49:01.519070"
+      "unique_companies": 204,
+      "avg_jobs_per_company": 4.82,
+      "timestamp": "2026-05-01T18:53:42.266026"
     }
   ]
 }
