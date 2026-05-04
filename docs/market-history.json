@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-05-04T09:18:28.416408",
+    "last_updated": "2026-05-04T11:24:41.531173",
     "total_snapshots": 61,
     "date_range": {
       "start": "2026-03-05",
@@ -3310,12 +3310,12 @@
     },
     {
       "date": "2026-05-04",
-      "total_jobs": 951,
+      "total_jobs": 1001,
       "categories": {},
       "tiers": {
         "unicorn": 470,
-        "other": 343,
-        "faang_plus": 138
+        "other": 392,
+        "faang_plus": 139
       },
       "top_companies": [
         {
@@ -3325,6 +3325,10 @@
         {
           "company": "Waymo",
           "jobs": 47
+        },
+        {
+          "company": "Prisma Health",
+          "jobs": 27
         },
         {
           "company": "ClickHouse",
@@ -3353,15 +3357,11 @@
         {
           "company": "Dropbox",
           "jobs": 19
-        },
-        {
-          "company": "Figma",
-          "jobs": 17
         }
       ],
-      "unique_companies": 197,
-      "avg_jobs_per_company": 4.83,
-      "timestamp": "2026-05-04T09:18:28.415651"
+      "unique_companies": 201,
+      "avg_jobs_per_company": 4.98,
+      "timestamp": "2026-05-04T11:24:41.530550"
     }
   ]
 }
