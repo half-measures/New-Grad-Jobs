@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-05-04T20:25:41.339020",
+    "last_updated": "2026-05-04T21:41:05.606222",
     "total_snapshots": 61,
     "date_range": {
       "start": "2026-03-05",
@@ -3310,12 +3310,12 @@
     },
     {
       "date": "2026-05-04",
-      "total_jobs": 989,
+      "total_jobs": 1003,
       "categories": {},
       "tiers": {
+        "other": 390,
         "unicorn": 468,
-        "faang_plus": 146,
-        "other": 375
+        "faang_plus": 145
       },
       "top_companies": [
         {
@@ -3340,14 +3340,14 @@
         },
         {
           "company": "Abnormal Security",
-          "jobs": 21
+          "jobs": 20
+        },
+        {
+          "company": "RBC",
+          "jobs": 20
         },
         {
           "company": "Boeing",
-          "jobs": 21
-        },
-        {
-          "company": "Northrop Grumman",
           "jobs": 20
         },
         {
@@ -3360,8 +3360,8 @@
         }
       ],
       "unique_companies": 208,
-      "avg_jobs_per_company": 4.75,
-      "timestamp": "2026-05-04T20:25:41.338223"
+      "avg_jobs_per_company": 4.82,
+      "timestamp": "2026-05-04T21:41:05.605510"
     }
   ]
 }
