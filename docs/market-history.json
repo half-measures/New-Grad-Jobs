@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-05-06T04:50:57.806161",
+    "last_updated": "2026-05-06T07:33:06.799724",
     "total_snapshots": 63,
     "date_range": {
       "start": "2026-03-05",
@@ -3420,12 +3420,12 @@
     },
     {
       "date": "2026-05-06",
-      "total_jobs": 1008,
+      "total_jobs": 992,
       "categories": {},
       "tiers": {
-        "unicorn": 471,
-        "faang_plus": 154,
-        "other": 383
+        "unicorn": 472,
+        "faang_plus": 155,
+        "other": 365
       },
       "top_companies": [
         {
@@ -3454,7 +3454,11 @@
         },
         {
           "company": "Accenture",
-          "jobs": 22
+          "jobs": 20
+        },
+        {
+          "company": "Dropbox",
+          "jobs": 19
         },
         {
           "company": "Oscar Health",
@@ -3463,15 +3467,11 @@
         {
           "company": "Stripe",
           "jobs": 18
-        },
-        {
-          "company": "Abnormal Security",
-          "jobs": 18
         }
       ],
-      "unique_companies": 208,
-      "avg_jobs_per_company": 4.85,
-      "timestamp": "2026-05-06T04:50:57.805461"
+      "unique_companies": 204,
+      "avg_jobs_per_company": 4.86,
+      "timestamp": "2026-05-06T07:33:06.799043"
     }
   ]
 }
