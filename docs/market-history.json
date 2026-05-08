@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-05-08T09:58:30.647623",
+    "last_updated": "2026-05-08T11:19:51.184717",
     "total_snapshots": 65,
     "date_range": {
       "start": "2026-03-05",
@@ -3530,12 +3530,12 @@
     },
     {
       "date": "2026-05-08",
-      "total_jobs": 976,
+      "total_jobs": 983,
       "categories": {},
       "tiers": {
+        "other": 373,
         "unicorn": 460,
-        "faang_plus": 151,
-        "other": 365
+        "faang_plus": 150
       },
       "top_companies": [
         {
@@ -3567,21 +3567,21 @@
           "jobs": 22
         },
         {
-          "company": "Dropbox",
+          "company": "Abnormal Security",
           "jobs": 20
         },
         {
-          "company": "Abnormal Security",
-          "jobs": 19
+          "company": "Dropbox",
+          "jobs": 20
         },
         {
           "company": "Stripe",
           "jobs": 19
         }
       ],
-      "unique_companies": 216,
-      "avg_jobs_per_company": 4.52,
-      "timestamp": "2026-05-08T09:58:30.646923"
+      "unique_companies": 221,
+      "avg_jobs_per_company": 4.45,
+      "timestamp": "2026-05-08T11:19:51.183964"
     }
   ]
 }
