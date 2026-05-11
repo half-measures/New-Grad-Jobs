@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-05-11T14:12:56.330498",
+    "last_updated": "2026-05-11T16:51:30.232887",
     "total_snapshots": 68,
     "date_range": {
       "start": "2026-03-05",
@@ -3695,12 +3695,12 @@
     },
     {
       "date": "2026-05-11",
-      "total_jobs": 1006,
+      "total_jobs": 984,
       "categories": {},
       "tiers": {
-        "unicorn": 464,
-        "other": 383,
-        "faang_plus": 159
+        "unicorn": 462,
+        "other": 370,
+        "faang_plus": 152
       },
       "top_companies": [
         {
@@ -3724,10 +3724,6 @@
           "jobs": 21
         },
         {
-          "company": "Stripe",
-          "jobs": 20
-        },
-        {
           "company": "Abnormal Security",
           "jobs": 20
         },
@@ -3736,17 +3732,21 @@
           "jobs": 20
         },
         {
-          "company": "Boeing",
+          "company": "Stripe",
           "jobs": 19
         },
         {
           "company": "Oscar Health",
           "jobs": 18
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 18
         }
       ],
-      "unique_companies": 212,
-      "avg_jobs_per_company": 4.75,
-      "timestamp": "2026-05-11T14:12:56.329731"
+      "unique_companies": 206,
+      "avg_jobs_per_company": 4.78,
+      "timestamp": "2026-05-11T16:51:30.232088"
     }
   ]
 }
