@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-05-12T17:39:39.681546",
+    "last_updated": "2026-05-12T19:26:34.672971",
     "total_snapshots": 69,
     "date_range": {
       "start": "2026-03-05",
@@ -3750,12 +3750,12 @@
     },
     {
       "date": "2026-05-12",
-      "total_jobs": 981,
+      "total_jobs": 1015,
       "categories": {},
       "tiers": {
-        "unicorn": 457,
-        "other": 370,
-        "faang_plus": 154
+        "faang_plus": 155,
+        "unicorn": 456,
+        "other": 404
       },
       "top_companies": [
         {
@@ -3767,11 +3767,15 @@
           "jobs": 45
         },
         {
-          "company": "Affirm",
-          "jobs": 25
+          "company": "Accenture",
+          "jobs": 27
         },
         {
           "company": "Northrop Grumman",
+          "jobs": 27
+        },
+        {
+          "company": "Affirm",
           "jobs": 24
         },
         {
@@ -3783,25 +3787,21 @@
           "jobs": 22
         },
         {
-          "company": "Abnormal Security",
-          "jobs": 18
+          "company": "Boeing",
+          "jobs": 20
         },
         {
           "company": "Oscar Health",
+          "jobs": 19
+        },
+        {
+          "company": "Abnormal Security",
           "jobs": 18
-        },
-        {
-          "company": "Stripe",
-          "jobs": 17
-        },
-        {
-          "company": "Figma",
-          "jobs": 17
         }
       ],
-      "unique_companies": 211,
-      "avg_jobs_per_company": 4.65,
-      "timestamp": "2026-05-12T17:39:39.679926"
+      "unique_companies": 217,
+      "avg_jobs_per_company": 4.68,
+      "timestamp": "2026-05-12T19:26:34.672119"
     }
   ]
 }
