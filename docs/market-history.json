@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-05-12T08:09:14.978164",
+    "last_updated": "2026-05-12T10:45:34.389723",
     "total_snapshots": 69,
     "date_range": {
       "start": "2026-03-05",
@@ -3750,12 +3750,12 @@
     },
     {
       "date": "2026-05-12",
-      "total_jobs": 1022,
+      "total_jobs": 1001,
       "categories": {},
       "tiers": {
         "unicorn": 463,
-        "faang_plus": 159,
-        "other": 400
+        "faang_plus": 163,
+        "other": 375
       },
       "top_companies": [
         {
@@ -3779,10 +3779,6 @@
           "jobs": 23
         },
         {
-          "company": "Action Behavior Centers - ABA Therapy for Autism",
-          "jobs": 23
-        },
-        {
           "company": "Lyft",
           "jobs": 21
         },
@@ -3797,11 +3793,15 @@
         {
           "company": "Boeing",
           "jobs": 19
+        },
+        {
+          "company": "Oscar Health",
+          "jobs": 18
         }
       ],
-      "unique_companies": 221,
-      "avg_jobs_per_company": 4.62,
-      "timestamp": "2026-05-12T08:09:14.977223"
+      "unique_companies": 223,
+      "avg_jobs_per_company": 4.49,
+      "timestamp": "2026-05-12T10:45:34.388957"
     }
   ]
 }
