@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-05-13T08:22:48.995230",
+    "last_updated": "2026-05-13T11:05:27.347556",
     "total_snapshots": 70,
     "date_range": {
       "start": "2026-03-05",
@@ -3805,12 +3805,12 @@
     },
     {
       "date": "2026-05-13",
-      "total_jobs": 1017,
+      "total_jobs": 987,
       "categories": {},
       "tiers": {
         "unicorn": 458,
-        "faang_plus": 153,
-        "other": 406
+        "faang_plus": 142,
+        "other": 387
       },
       "top_companies": [
         {
@@ -3838,10 +3838,6 @@
           "jobs": 21
         },
         {
-          "company": "Accenture",
-          "jobs": 20
-        },
-        {
           "company": "Oscar Health",
           "jobs": 19
         },
@@ -3852,11 +3848,15 @@
         {
           "company": "Stripe",
           "jobs": 17
+        },
+        {
+          "company": "Figma",
+          "jobs": 17
         }
       ],
-      "unique_companies": 220,
-      "avg_jobs_per_company": 4.62,
-      "timestamp": "2026-05-13T08:22:48.994473"
+      "unique_companies": 221,
+      "avg_jobs_per_company": 4.47,
+      "timestamp": "2026-05-13T11:05:27.346749"
     }
   ]
 }
