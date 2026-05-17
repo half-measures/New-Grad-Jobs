@@ -1,10 +1,10 @@
 {
   "meta": {
-    "last_updated": "2026-05-16T23:33:05.891207",
-    "total_snapshots": 73,
+    "last_updated": "2026-05-17T01:31:34.615180",
+    "total_snapshots": 74,
     "date_range": {
       "start": "2026-03-05",
-      "end": "2026-05-16"
+      "end": "2026-05-17"
     }
   },
   "snapshots": [
@@ -4022,6 +4022,61 @@
       "unique_companies": 198,
       "avg_jobs_per_company": 4.71,
       "timestamp": "2026-05-16T23:33:05.890282"
+    },
+    {
+      "date": "2026-05-17",
+      "total_jobs": 936,
+      "categories": {},
+      "tiers": {
+        "unicorn": 462,
+        "other": 330,
+        "faang_plus": 144
+      },
+      "top_companies": [
+        {
+          "company": "SpaceX",
+          "jobs": 184
+        },
+        {
+          "company": "Waymo",
+          "jobs": 47
+        },
+        {
+          "company": "ClickHouse",
+          "jobs": 24
+        },
+        {
+          "company": "Affirm",
+          "jobs": 24
+        },
+        {
+          "company": "Northrop Grumman",
+          "jobs": 23
+        },
+        {
+          "company": "Lyft",
+          "jobs": 20
+        },
+        {
+          "company": "Abnormal Security",
+          "jobs": 19
+        },
+        {
+          "company": "Oscar Health",
+          "jobs": 19
+        },
+        {
+          "company": "Boeing",
+          "jobs": 18
+        },
+        {
+          "company": "Stripe",
+          "jobs": 17
+        }
+      ],
+      "unique_companies": 200,
+      "avg_jobs_per_company": 4.68,
+      "timestamp": "2026-05-17T01:31:34.614474"
     }
   ]
 }
