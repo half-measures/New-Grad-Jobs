@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-05-18T19:09:00.043267",
+    "last_updated": "2026-05-18T20:48:12.719314",
     "total_snapshots": 75,
     "date_range": {
       "start": "2026-03-05",
@@ -4080,12 +4080,12 @@
     },
     {
       "date": "2026-05-18",
-      "total_jobs": 962,
+      "total_jobs": 980,
       "categories": {},
       "tiers": {
         "unicorn": 468,
-        "other": 346,
-        "faang_plus": 148
+        "other": 360,
+        "faang_plus": 152
       },
       "top_companies": [
         {
@@ -4102,7 +4102,7 @@
         },
         {
           "company": "Accenture",
-          "jobs": 27
+          "jobs": 26
         },
         {
           "company": "ClickHouse",
@@ -4111,6 +4111,10 @@
         {
           "company": "Affirm",
           "jobs": 23
+        },
+        {
+          "company": "Boeing",
+          "jobs": 21
         },
         {
           "company": "Abnormal Security",
@@ -4123,15 +4127,11 @@
         {
           "company": "Oscar Health",
           "jobs": 19
-        },
-        {
-          "company": "Boeing",
-          "jobs": 19
         }
       ],
-      "unique_companies": 208,
-      "avg_jobs_per_company": 4.62,
-      "timestamp": "2026-05-18T19:09:00.042359"
+      "unique_companies": 220,
+      "avg_jobs_per_company": 4.45,
+      "timestamp": "2026-05-18T20:48:12.718468"
     }
   ]
 }
